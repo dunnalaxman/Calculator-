@@ -15,7 +15,7 @@ This project demonstrates clean UI design, basic JavaScript logic, and interacti
 
 ## Calculator Screenshot
 
-![image alt](
+![image alt](https://github.com/dunnalaxman/Calculator-/blob/f2b9ff0d9309a057a1e73feaea6b0b629c51a3be/Screenshot%202026-01-11%20105040.png)
 ## Technologies Used
 
 HTML5 – Structure of the calculator
