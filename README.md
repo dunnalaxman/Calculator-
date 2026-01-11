@@ -13,8 +13,9 @@ This project demonstrates clean UI design, basic JavaScript logic, and interacti
 
 📱 Responsive layout for different screen sizes
 
-⚡ Fast and user-friendly performance
+## Calculator Screenshot
 
+![image alt](
 ## Technologies Used
 
 HTML5 – Structure of the calculator
